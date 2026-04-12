@@ -38,9 +38,14 @@ Esta arquitectura facilita la **escalabilidad**, mejora la **interoperabilidad**
 | Docker | Contenedores |
 | Python 3.10+ | Lenguaje principal |
 | Apache Kafka | Ingesta de datos |
+| Kafka Topics | Categorizar datos |
+| HDFS | Distribucion almacenamiento |
+| Parquet | Formato columnar de datos |
 | Apache Spark | Procesamiento |
+| PostgreSQL | Data Warehouse |
 | Medallion | Procesamiento por capas |
 | Power BI (o similar) | Visualización |
+| TensorFlow | Entrenamiento de modelos IA |
 
 ---
 
